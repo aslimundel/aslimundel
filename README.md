@@ -48,8 +48,9 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://twitter.com/asli_mundel">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
   
 </p>
 </h1>
+<h3>Thanks for Stopping by!! 😊</h3>
