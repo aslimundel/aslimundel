@@ -26,9 +26,9 @@
 
 ## Skills
 
-- **Computer Language:** C, Python, SQL
+- **Computer Language:** C, Python, SQL, MATLAB
 - Data Cleaning and Data handling 
 - Data Analysis and creating interactive visualization using Numpy, Pandas, Matplotlib, Seaborn, Plotly, folium, Tableau
-- Hypothesis Testing using various machine learning algorithm and tuning the parameter of those algorithms using Scikit-Learn, TensorFlow\
+- Hypothesis Testing using various machine learning algorithm and tuning the parameter of those algorithms using Scikit-Learn, TensorFlow
 
 ### Thanks for Stopping by!! 😊
