@@ -2,7 +2,7 @@
 
 
 
-## Education 
+## Education: 
 
 | Year      | Degree/Examination |        Institution/Board       | CGPA/Percentage |
 | :---:        |    :----:   |          :---: | :---: |
