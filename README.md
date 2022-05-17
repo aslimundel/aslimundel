@@ -1,14 +1,16 @@
 ## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Abhishek!](https://github.com/aslimundel) !!
 
-## About Me 
 
-
-Abhishek is a word that derives from Sanskrit word ‘Abhiśeka’ which means ‘bathing of the divinity to whom worship is being offered‘, it is sort of a Hindu method of prayer in which devotee pours liquid offering (mostly milk) on idols.
 
 ## Education 
 
+| Year      | Degree/Examination |        Institution/Board       | CGPA/Percentage |
+| :---:        |    :----:   |          :---: | :---: |
+| 2022      | M.Tech       | Indian Institute of Technology, Roorkee  | 8.44 |
+| 2018   | B.Tech        | Motilal Nehru National Institutte of Technology, Allahabad  | 7.79 |
+| 2013      | Intermediate       | Board of Secondary Educatioon Rajasthan  | 89.60 |
+| 2011      | Matriculate       | Board of Secondary Educatioon Rajasthan | 88.50 |
 
-I have studied *Systems and Control Engineering*; a specialized branch of Electrical Engineering at **Indian Institute of Technology Roorkee** as an *M. Tech* Student and will be working in *ICICI Bank* as *Management Trainee* from the upcoming month. I did my *B. Tech* from **Motilal Nehru National Institute of Technology, Allahabad** in *Electrical Engineering*.
 
 <!--
 **aslimundel/aslimundel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
