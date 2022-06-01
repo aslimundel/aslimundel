@@ -1,4 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="10px">, I'm [Abhishek!](https://github.com/aslimundel) !!
+## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="5px">, I'm [Abhishek!](https://github.com/aslimundel) !!
 
 [Facebook](https://www.facebook.com/Aslimundel/) |  [Instagram](https://www.instagram.com/asli_mundel/) | [Twitter](https://twitter.com/asli_mundel) | [Linkedin](https://www.linkedin.com/in/aslimundel/) | [GitHub](https://github.com/aslimundel) | [WordPress](https://biasedatom.wordpress.com/)
 
