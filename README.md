@@ -9,7 +9,7 @@
 
 | Year      | Degree/Examination |        Institution/Board       | CGPA/Percentage |
 | :---:        |    :----:   |          :---: | :---: |
-| 2022      | M.Tech       | Indian Institute of Technology, Roorkee  | 8.44 |
+| 2022      | M.Tech       | Indian Institute of Technology, Roorkee  | 8.0 |
 | 2018   | B.Tech        | Motilal Nehru National Institutte of Technology, Allahabad  | 7.79 |
 | 2013      | Intermediate       | Board of Secondary Educatioon Rajasthan  | 89.60 |
 | 2011      | Matriculate       | Board of Secondary Educatioon Rajasthan | 88.50 |
