@@ -1,6 +1,6 @@
 ## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="5px">, I'm [Abhishek!](https://github.com/aslimundel) !!
 
-[Facebook](https://www.facebook.com/Aslimundel/) |  [Instagram](https://www.instagram.com/asli_mundel/) | [Twitter](https://twitter.com/asli_mundel) | [Linkedin](https://www.linkedin.com/in/aslimundel/) | [GitHub](https://github.com/aslimundel) | [WordPress](https://biasedatom.wordpress.com/)
+[Facebook](https://www.facebook.com/Aslimundel/) |  [Instagram](https://www.instagram.com/asli_mundel/) | [Twitter](https://twitter.com/asli_mundel) | [Linkedin](https://www.linkedin.com/in/aslimundel/) 
 
 > I am Abhishek Mundel, a data science enthusiast with master's degree in Systems and Control, a specialized branch of Electrical Engineering from IIT Roorkee and In the upcoming months I will be joining ICICI Bank as management trainee. I have near about 7-8 months experience of working on microprojects involving the large Datasets.
 
